@@ -1,5 +1,3 @@
-using System;
-using System.Runtime.CompilerServices;
 using GameStore.Frontend.Models;
 
 namespace GameStore.Frontend.Clients;
